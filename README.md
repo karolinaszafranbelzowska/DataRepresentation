@@ -4,11 +4,11 @@
 
 This project has been carried out as an assignment of the Data Representation module of the Higher Diploma In Data Analytics at GMIT.
 
-### Contents
-My project consists of the following elements:
+### The repository contains:
+
 
 - README.md file
-
+- 
 - (not yet) mySQL database
 - Python 'DAO' programme to access the mySQL database, this programme consumes an API.
 - (not yet) Python 'application' to run a Flask server
