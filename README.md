@@ -14,3 +14,13 @@ Python 'DAO' programme to access the mySQL database
 
 ### DAO
 DAO stands for Data Access Object. The EmployeeDAO.py file consists of a number of functions which access the database and perform CRUD operations. 
+It is a pattern that provides an abstract interface to some type of database or other persistence mechanism. The DAO provides some specific data operations without exposing details of the database[1].
+
+
+
+
+
+
+
+### References
+[1] https://en.wikipedia.org/wiki/Data_access_object, 05/12/2020
