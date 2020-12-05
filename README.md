@@ -1,6 +1,11 @@
-# Data Representation Project, 
-## December 2020
+# GMIT Data Representation Module Project 2020.
+### Higher Diploma in Data Analytics, Lecturer: Andrew Beatty
+### December 2020
 ### Karolina Szafran-Belzowska, G00376368
+
+
+
+Author: Clodagh Murphy
 
 This project has been carried out as an assignment of the Data Representation module of the Higher Diploma In Data Analytics at GMIT.
 
