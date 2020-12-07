@@ -3,7 +3,7 @@
 
 import mysql.connector # pip install mysql-connector
 
-# Code adapated from https://github.com/andrewbeattycourseware/dataRepresenation2020, 05/12/2020
+# Code taken from https://github.com/andrewbeattycourseware/dataRepresenation2020, 05/12/2020
 
 # create a class EmployeeDAO to contain all functions
 class EmployeeDAO:

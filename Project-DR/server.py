@@ -1,6 +1,6 @@
 # Karolina Szafran-Belzowska, 
 # Data Representation, project 2020
-# Code adapated from https://github.com/andrewbeattycourseware/dataRepresenation2020, 06/12/2020
+# Code taken from https://github.com/andrewbeattycourseware/dataRepresenation2020, 06/12/2020
 
 
 from EmployeeDAO import employeeDAO
