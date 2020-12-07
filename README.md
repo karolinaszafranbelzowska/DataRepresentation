@@ -11,7 +11,8 @@ This project has been carried out as an assignment of the Data Representation mo
 - .gitignore
 - (not yet) mySQL database
 - Python 'DAO' programme to access the mySQL database, this programme consumes an API. (EmployeeDAO.py, testEmployeeDAO.py- it was used to test the DAO.)
-- Python 'application' to run a Flask server
+- Python 'application' to run a Flask server (server.py)
+- createDBproject.py - code to create the database ('dr_project')
 - (not yet)Several html pages and associated JavaScript and css files as a user interface
 
 
