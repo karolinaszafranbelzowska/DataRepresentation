@@ -11,7 +11,8 @@ This project has been carried out as an assignment of the Data Representation mo
 - .gitignore
 - (not yet) mySQL database
 - Python 'DAO' programme to access the mySQL database, this programme consumes an API. (EmployeeDAO.py, testEmployeeDAO.py- it was used to test the DAO.)
-- (not yet) Python 'application' to run a Flask server
+- Python 'application' to run a Flask server (server.py)
+- createDBproject.py - code to create the database ('dr_project')
 - (not yet)Several html pages and associated JavaScript and css files as a user interface
 
 
@@ -19,6 +20,8 @@ This project has been carried out as an assignment of the Data Representation mo
 ### DAO
 DAO stands for Data Access Object. The EmployeeDAO.py file consists of a number of functions which access the database and perform CRUD operations. 
 It is a pattern that provides an abstract interface to some type of database or other persistence mechanism. The DAO provides some specific data operations without exposing details of the database[1].
+
+###
 
 ### MySQL database & table
 Database = dr_project
