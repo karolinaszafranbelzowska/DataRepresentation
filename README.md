@@ -15,6 +15,7 @@ This project has been carried out as an assignment of the Data Representation mo
 - Python 'application' to run a Flask server (server.py) in a virtual enviroment
 - createDBproject.py - code to create the database ('dr_project')
 - employee.html page 
+- employee.png
 
 
 ### AJAX
