@@ -9,14 +9,16 @@ This project has been carried out as an assignment of the Data Representation mo
 
 - README.md file
 - .gitignore
-- (not yet) mySQL database
+- requirements.txt - stores required packages 
+- mySQL database
 - Python 'DAO' programme to access the mySQL database, this programme consumes an API. (EmployeeDAO.py, testEmployeeDAO.py- it was used to test the DAO.)
-- Python 'application' to run a Flask server (server.py)
+- Python 'application' to run a Flask server (server.py) in a virtual enviroment
 - createDBproject.py - code to create the database ('dr_project')
-- (not yet)Several html pages and associated JavaScript and css files as a user interface
+- employee.html page 
 
 
-
+### AJAX
+A technique of creating web applications in which user interaction with the server takes place without reloading the entire document, in an asynchronous manner. This is to allow more dynamic interaction with the user than in the traditional model where every word applies to all HTML pages[2].
 ### DAO
 DAO stands for Data Access Object. The EmployeeDAO.py file consists of a number of functions which access the database and perform CRUD operations. 
 It is a pattern that provides an abstract interface to some type of database or other persistence mechanism. The DAO provides some specific data operations without exposing details of the database[1].
@@ -47,3 +49,7 @@ create table employee (
 
 ### References
 [1] https://en.wikipedia.org/wiki/Data_access_object, 05/12/2020
+[2] https://pl.wikipedia.org/wiki/AJAX, 08/12/2020
+[3] https://www.w3schools.com/xml/ajax_intro.asp,08/12/2020
+https://github.com/andrewbeattycourseware/dataRepresenation2020
+GMIT Video Lectures, Andrew Beatty
