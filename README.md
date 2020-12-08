@@ -38,7 +38,8 @@ create table employee (
     employee_Salary int
 );
 ```
-![alt text](http://url/to/employee.png)
+![employee](http://url/to/employee.png)
+![employee](employee.png)
 
 
 
