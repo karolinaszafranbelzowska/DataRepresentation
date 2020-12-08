@@ -49,7 +49,11 @@ create table employee (
 
 ### References
 [1] https://en.wikipedia.org/wiki/Data_access_object, 05/12/2020
+
 [2] https://pl.wikipedia.org/wiki/AJAX, 08/12/2020
+
 [3] https://www.w3schools.com/xml/ajax_intro.asp,08/12/2020
+
 https://github.com/andrewbeattycourseware/dataRepresenation2020
+
 GMIT Video Lectures, Andrew Beatty
