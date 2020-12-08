@@ -30,7 +30,7 @@ At the command prompt: For those who do not have 'flask' and 'mysql-connector' i
 pip install flask
 pip install mysql-connector
 ```
-In the command prompt typecommand: *python server.py*. to make the server running (at http://127.0.0.1:5000).
+In the command prompt type command: *python server.py*. to make the server running (at http://127.0.0.1:5000).
 In the browser address bar: http://127.0.0.1:5000/employee.html - starts the web interface that uses AJAX to perform database.
 
 ### MySQL database & table
