@@ -15,6 +15,7 @@ This project has been carried out as an assignment of the Data Representation mo
 - Python 'application' to run a Flask server (server.py) in a virtual enviroment
 - createDBproject.py - code to create the database ('dr_project')
 - employee.html page 
+- employee.png
 
 
 ### AJAX
@@ -23,7 +24,14 @@ A technique of creating web applications in which user interaction with the serv
 DAO stands for Data Access Object. The EmployeeDAO.py file consists of a number of functions which access the database and perform CRUD operations. 
 It is a pattern that provides an abstract interface to some type of database or other persistence mechanism. The DAO provides some specific data operations without exposing details of the database[1].
 
-###
+### How to run
+At the command prompt: For those who do not have 'flask' and 'mysql-connector' installed:
+```
+pip install flask
+pip install mysql-connector
+```
+In the command prompt type command: *python server.py*. to make the server running (at http://127.0.0.1:5000).
+In the browser address bar: http://127.0.0.1:5000/employee.html - starts the web interface that uses AJAX to perform database.
 
 ### MySQL database & table
 Database = dr_project
