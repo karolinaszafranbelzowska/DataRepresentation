@@ -1,5 +1,5 @@
-# Karolina Szafran-Belzowska, 
-# Data Representation, project 2020
+# Karolina Szafran-Belzowska, G00376368 
+# Data Representation and Quering, Higher Diploma In Data Analytics at GMIT, project 2020
 
 import mysql.connector # pip install mysql-connector
 
@@ -78,6 +78,7 @@ class EmployeeDAO:
         cursor.execute(sql, values)
         return {}
 
+# Function called 'convertToDict'
     def convertToDict(self,result):
         colnames= ['employee_ID', 'employee_Name','employee_Dept_ID','employee_Salary']
         person = {}

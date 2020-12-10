@@ -1,5 +1,6 @@
-# Karolina Szafran-Belzowska, 
-# Data Representation, project 2020
+# Karolina Szafran-Belzowska, G00376368 
+# Data Representation and Quering, Higher Diploma In Data Analytics at GMIT, project 2020
+
 # print("ok!") # print ok to see if everything works / and it works!
 
 from EmployeeDAO import employeeDAO
